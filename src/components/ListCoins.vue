@@ -19,7 +19,7 @@
 
         <template v-slot:top>
           <div class="my-2 mx-4 text-h5 font-weight-medium">
-            Relacion Criptomonedas
+            Relacion Criptomonedas pruebas cloudflare
           </div>
           <v-text-field
               v-model="search"
